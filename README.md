@@ -79,3 +79,15 @@
           </tr>
         </tbody>
       </table>
+
+      <article>
+        <h1>"Em meio a onda de calor, Inmet emite alerta para chuvas intensas em quase todo o país; veja LISTA" </h1>
+        <p>Ao todo, quatro avisos de chuvas intensas estão em vigor, com diferentes variações de intensidade. Em alguns estados, volume total de chuva pode chegar a 100 milímetros (mm) em 24h, com ventos de até 100 km/h.</p>
+          <img  width="400px" height="400px" src="https://s2-g1.glbimg.com/7e9pB3u1SIGILELTpDEMVM5qr4Q=/0x0:542x577/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/r/e/hrUF6lRzuPVDsIsul3dQ/inmet.png"> <br> <br>
+          <h3>Referência: <a href="https://g1.globo.com/meio-ambiente/noticia/2024/03/18/inmet-emite-alerta-chuvas.ghtml" target="_blank"> aqui </a></h3> 
+      </article>
+      <footer> 
+        <h4> Informações de contato: </h4>
+        <p> Email: Isabelledallacarlesso@gmail.com</p>
+      </footer>
+      
